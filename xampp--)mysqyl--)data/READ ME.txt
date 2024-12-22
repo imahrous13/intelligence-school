@@ -1,0 +1,2 @@
+admins  hima, yousooof, 7dida
+all passwords = 123
